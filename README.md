@@ -13,10 +13,9 @@ Example of a transaction:
 
 ### Results
 
-More information on the results in the PDF.
+More information on the "Fake report_Market Basket Analysis" PDF.
 
 ### Our data
 
-Look at the csv file.
-
+"Transactions.csv" file
 
